@@ -2,7 +2,7 @@ module.exports = {
     title: 'SOFTWARE X',
     lang: 'en-US',
     themeConfig: {
-        logo: './lina-logo.svg',
+        logo: './vectorlina-logo.svg',
         
         nav: [
             {text: 'Home', link: '/'},
