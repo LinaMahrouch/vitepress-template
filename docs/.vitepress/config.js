@@ -1,18 +1,23 @@
 module.exports = {
     title: 'SOFTWARE X',
-    
+    lang: 'en-US',
     themeConfig: {
         logo: './lina-logo.svg',
         
         nav: [
             {text: 'Home', link: '/'},
             {text: 'About', link: '/About'},
-            {text: 'Github', link: 'https://github.com/ElinaaCodes'
-        },
+            
             
             
 
         ],
+        socialLinks: [
+            { icon: 'github', link: 'https://github.com/ElinaaCodes/vitepress-template' },
+            { icon: 'linkedin', link: 'https://www.linkedin.com/in/lina-mahrouch-733214223/' },
+            
+            
+          ],
         sidebar : [
             {
                 text:'Guide',
@@ -22,6 +27,8 @@ module.exports = {
                 ]
             }
         ],
+
+        
 
     
     
