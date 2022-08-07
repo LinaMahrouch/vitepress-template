@@ -1,2 +1,2 @@
 # vitepress-template
-A software documentation Template made with Vitepress
+A Software X documentation Template made with Vitepress
