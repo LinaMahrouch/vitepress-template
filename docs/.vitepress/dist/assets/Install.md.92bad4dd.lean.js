@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as e,a as t}from"./app.d97e2f52.js";var n="/assets/team-vue.d9110727.png";const y=JSON.parse('{"title":"Installation","description":"","frontmatter":{},"headers":[],"relativePath":"Install.md"}'),o={name:"Install.md"},l=t("",4),c=[l];function r(p,i,d,_,m,u){return e(),a("div",null,c)}var f=s(o,[["render",r]]);export{y as __pageData,f as default};
